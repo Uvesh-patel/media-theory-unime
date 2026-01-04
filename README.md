@@ -2,7 +2,7 @@
 
 Course materials for the **Media Theory** module, part of the Master's Degree in **Cognitive Science and Theory of Communication (LM-55/92)** at the **University of Messina**, Italy.
 
-> **Academic Year: 2022-23**
+> **Academic Year: 2024-25**
 
 ---
 
