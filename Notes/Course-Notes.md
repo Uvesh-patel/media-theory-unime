@@ -1,7 +1,7 @@
 # Media Theory - Course Notes
 
 > **Master's Degree in Cognitive Science and Theory of Communication (LM-55/92)**  
-> **University of Messina - Academic Year 2022-23**
+> **University of Messina - Academic Year 2024-25**
 
 ---
 
